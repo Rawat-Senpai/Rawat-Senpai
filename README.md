@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **majin.shobhitrawat53@gmail.com**
 
-- ⚡ Fun fact **I am a weeb who**
+- ⚡ Fun fact **I love anime **
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
