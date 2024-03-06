@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **android**
 
-- 📫 How to reach me **majin.shobhitrawat53@gmail.com**
+- 📫 How to reach me **shobhitrawat84@gmail.com**
 
 - ⚡ Fun fact **I love anime **
 
