@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **shobhitrawat84@gmail.com**
 
-- ⚡ Fun fact **I love anime **
+ 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
