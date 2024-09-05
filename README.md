@@ -6,11 +6,9 @@ _**LATEST UPDATE:**_ _Exploring backend development in Golang and MongoDB, as we
 ### 🎍 Little about myself  👨‍💻
 
 - 👦 Ex GDG Gwalior Android Lead
-- 💼 Android Developer @ [AndrofitAi](https://androfit.co.uk/).
 - 👨‍💻 I develop Android apps and am currently working on developing backend servers for them using Go.
 - 🌱 I’m currently learning **Golang**
 - 📫 How to reach me **shobhitrawat84@gmail.com**
-- 🔭 I’m currently working on Backend [Get Together Backend](https://github.com/Rawat-Senpai/GetTogetherBackend)
 - Proud 🇮🇳.
 
 <h3 align="left">Languages and Tools:</h3>
