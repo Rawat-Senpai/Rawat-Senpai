@@ -6,8 +6,8 @@ _**LATEST UPDATE:**_ _Exploring backend development in Golang and MongoDB, as we
 ### 🎍 Little about myself  👨‍💻
 
 - 👦 Ex GDG Gwalior Android Lead
-- 👨‍💻 I develop Android apps and am currently working on developing backend servers for them using Go.
-- 🌱 I’m currently learning **Golang**
+- 👨‍💻 I develop Android apps and am currently building some projects on jetpack compose.
+- 🌱 I’m currently learning **Jetpack Compose**
 - 📫 How to reach me **shobhitrawat84@gmail.com**
 - Proud 🇮🇳.
 
